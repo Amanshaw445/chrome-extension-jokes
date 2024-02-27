@@ -1,30 +1,30 @@
 <h1>Jokes Chrome Extension</h1>
 
-<h3>Description</h3>
+<h2>Description</h2>
 The "Jokes" Chrome Extension fetches Jokes from an external API.
 
-<h3>Features</h3>
+<h2>Features</h2>
 - Get New Joke Button.
 - Jokes displayed dynamically on the extension popup.
 
-<h3>Usage</h3>
+<h2>Usage</h2>
 - Click the extension icon in the Chrome toolbar to open the popup.
 - Dive into a joke fetched from the external API, presented seamlessly in the popup.
 
-<h3>Credits</h3>
+<h2>Credits</h2>
 This extension owes its humor to the JokeAPI (https://jokeapi.dev/).
 
-<h3>License</h3>
+<h2>License</h2>
 Released under the MIT License. See the LICENSE file for details.
 
-<h3>Author</h3>
-<h2>Crafted by Aman.</h2>
+<h2>Author</h2>
+<h3>Crafted by Aman.</h3>
 
-<h3>Version:</h3>
+<h2>Version:</h2>
 <h2>0.0.1</h2>
 
-<h3>Permissions:</h3>
+<h2>Permissions:</h2>
 Requires the "activeTab" permission to fetch jokes while you browse.
 
-<h3>Disclaimer:</h3>
+<h2>Disclaimer:</h2>
 The jokes are fetched by api not devloped by author.
