@@ -17,11 +17,10 @@ This extension owes its humor to the JokeAPI (https://jokeapi.dev/).
 <h2>License</h2>
 Released under the MIT License. See the LICENSE file for details.
 
-<h2>Author</h2>
+<h2>Author-</h2>
 <h3>Crafted by Aman.</h3>
 
-<h2>Version:</h2>
-<h2>0.0.1</h2>
+<h2>Version:- 0.0.1</h2>
 
 <h2>Permissions:</h2>
 Requires the "activeTab" permission to fetch jokes while you browse.
