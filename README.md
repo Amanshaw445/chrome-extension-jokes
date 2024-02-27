@@ -18,7 +18,7 @@ This extension owes its humor to the JokeAPI (https://jokeapi.dev/).
 Released under the MIT License. See the LICENSE file for details.
 
 <h3>Author:</h3>
-<h2>Crafted with love by Aman.</h2>
+<h2>Crafted by Aman.</h2>
 
 <h3>Version:</h3>
 <h2>0.0.1</h2>
