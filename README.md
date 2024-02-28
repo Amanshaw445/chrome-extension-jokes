@@ -20,7 +20,7 @@ Released under the MIT License. See the LICENSE file for details.
 <h3>Author-</h3>
 <h3>Crafted by Aman.</h3>
 
-<h3>Version:- 0.0.1</h3>
+<h3>Version:- 0.0.2</h3>
 
 <h2>Permissions:</h2>
 Requires the "activeTab" permission to fetch jokes while you browse.
